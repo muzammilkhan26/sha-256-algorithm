@@ -15,10 +15,10 @@ Usage
 
 1.  **Requirements:** Ensure Python is installed on your system.
 2.  **Running the Script:**
-    *   Clone the repository or download the `sha256.py` file.
+    *   Clone the repository or download the `main.py` file.
     *   Open a terminal or command prompt.
-    *   Navigate to the directory containing `sha256.py`.
-    *   Run the script by executing: `python sha256.py`.
+    *   Navigate to the directory containing `main.py`.
+    *   Run the script by executing: `python main.py`.
 3.  **Input:** Enter the string input when prompted by the script.
 4.  **Output:** The computed SHA-256 hash will be displayed in hexadecimal format.
 
